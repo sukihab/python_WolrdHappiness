@@ -1,7 +1,5 @@
 # python_WolrdHappiness
 
-# python_WolrdHappiness
-
 ### Intro
 
 The World Happiness Report is a landmark survey of the state of global happiness. First published in 2012 and is now progressively gaining world recognition due to increasingly usage of happiness indicators for policy-making decisions by governments and other organizations. 
