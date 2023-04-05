@@ -37,5 +37,4 @@ Libraries used for this project:
 
 2.	Tableau Public
 
-This [link](https://public.tableau.com/app/profile/suki7003/viz/Suki-WorldHappinessAnalysis/Story1?publish=yes) will bring you to the storyboard presentation in Tableau. 
-Please note that this storyboard only contains the analysis steps relevant to the final result.
+You may check out my [storyboard](https://public.tableau.com/app/profile/suki7003/viz/Suki-WorldHappinessAnalysis/Story1?publish=yes)  on Tableau. Please note that this storyboard only contains the analysis steps relevant to the final result.
